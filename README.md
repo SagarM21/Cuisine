@@ -9,3 +9,4 @@ A new Flutter project.
 - Favorite Meal Section
 - Filtration based on different Meal types
 - Multi Screen Application
+- Using riverpod to manage state
