@@ -10,3 +10,4 @@ A new Flutter project.
 - Filtration based on different Meal types
 - Multi Screen Application
 - Using riverpod to manage state
+- Explicit/Implicit animations added
